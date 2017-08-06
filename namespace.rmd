@@ -141,7 +141,7 @@ And four describe imports:
 
 I don't recommend writing these directives by hand. Instead, in this chapter you'll learn how to generate the `NAMESPACE` file with roxygen2. There are three main advantages to using roxygen2:
 
-* Namespace definitions live next to its associated function, so when you 
+* Namespace definitions live next to their associated functions, so when you 
   read the code it's easier to see what's being imported and exported.
 
 * Roxygen2 abstracts away some of the details of `NAMESPACE`. You only 
